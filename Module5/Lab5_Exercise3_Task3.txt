@@ -1,0 +1,10 @@
+        productname    unitprice
+        -----------------------
+1        Product QDOMO	263.50
+2        Product VJXYN	123.79
+3        Product AOZBW	97.00
+4        Product QHFFP	81.00
+5        Product CKEDC	62.50
+6        Product UKXRI	55.00
+7        Product APITJ	53.00
+8        Product WUXYK	49.30

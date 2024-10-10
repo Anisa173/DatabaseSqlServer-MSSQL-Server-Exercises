@@ -1,0 +1,12 @@
+﻿
+
+empid|EmployeeFirstName|EmployeeLastName|    Employee_Title     |   mgrid   |  ManagerFirstName  | ManagerLastName |    ManagerTitle
+----------------------------------------------------------------------------------------------------------------------------------------------
+1	    Sara	   Davis	     CEO	                1	     Don	    Funk	        Vice President, Sales
+2	    Don	           Funk	             Vice President, Sales	2	     Judy	    Lew	                Sales Manager
+3	    Judy	   Lew	             Sales Manager	        3	     Yael	    Peled	        Sales Representative
+2	    Don	           Funk	             Vice President, Sales	2	     Sven	    Buck	        Sales Manager
+5	    Sven	   Buck	             Sales Manager	        5	     Paul	    Suurs	        Sales Representative
+5	    Sven	   Buck	             Sales Manager	        5	     Russell	    King	        Sales Representative
+3	    Judy	   Lew	             Sales Manager	        3	     Maria	    Cameron	        Sales Representative
+5	    Sven	   Buck	             Sales Manager	        5	     Zoya	    Dolgopyatova	Sales Representative

@@ -1,0 +1,160 @@
+﻿   ProductName           CategoryName
+----------------------------------------
+1  Product HHYDP	 Beverages
+2  Product RECZE	 Beverages
+3  Product IMEHJ	 Condiments
+4  Product KSBRM	 Condiments
+5  Product EPEIM	 Condiments
+6  Product VAIIV	 Condiments
+7  Product HMLNI	 Produce
+8  Product WVJFP	 Condiments
+9  Product AOZBW	 Meat/Poultry
+10 Product YHXGE	 Seafood
+11 Product QMVUN	 Dairy Products
+12 Product OSFNS	 Dairy Products
+13 Product POXFU	 Seafood
+14 Product PWCJB	 Produce
+15 Product KSZOI	 Condiments
+16 Product PAFRH	 Confections
+17 Product BLCAX	 Meat/Poultry
+18 Product CKEDC	 Seafood
+19 Product XKXDO	 Confections
+20 Product QHFFP	 Confections
+21 Product VJZZH	 Confections
+22 Product CPHFY	 Grains/Cereals
+23 Product JLUDZ	 Grains/Cereals
+24 Product QOGNU	 Beverages
+25 Product LYLNI	 Confections
+26 Product HLGZA	 Confections
+27 Product SMIOH	 Confections
+28 Product OFBNT	 Produce
+29 Product VJXYN	 Meat/Poultry
+30 Product LYERX	 Seafood
+31 Product XWOXC	 Dairy Products
+32 Product NUNAW	 Dairy Products
+33 Product ASTMN	 Dairy Products
+34 Product SWNJY	 Beverages
+35 Product NEVTJ	 Beverages
+36 Product GMKIJ	 Seafood
+37 Product EVFFA	 Seafood
+38 Product QDOMO	 Beverages
+39 Product LSOFL	 Beverages
+40 Product YZIXQ	 Seafood
+41 Product TTEEX	 Seafood
+42 Product RJVNM	 Grains/Cereals
+43 Product ZZZHR	 Beverages
+44 Product VJIEO	 Condiments
+45 Product AQOKR	 Seafood
+46 Product CBRRL	 Seafood
+47 Product EZZPR	 Confections
+48 Product MYNXN	 Confections
+49 Product FPYPN	 Confections
+50 Product BIUDV	 Confections
+51 Product APITJ	 Produce
+52 Product QSRXF	 Grains/Cereals
+53 Product BKGEA	 Meat/Poultry
+54 Product QAQRL	 Meat/Poultry
+55 Product YYWRT	 Meat/Poultry
+56 Product VKCMF	 Grains/Cereals
+57 Product OVLQI	 Grains/Cereals
+58 Product ACRVI	 Seafood
+59 Product UKXRI	 Dairy Products
+60 Product WHBYK	 Dairy Products
+61 Product XYZPE	 Condiments
+62 Product WUXYK	 Confections
+63 Product ICKNK	 Condiments
+64 Product HCQDE	 Grains/Cereals
+65 Product XYWBZ	 Condiments
+66 Product LQMGN	 Condiments
+67 Product XLXQF	 Beverages
+68 Product TBTBL	 Confections
+69 Product COAXA	 Dairy Products
+70 Product TOONT	 Beverages
+71 Product MYMOI	 Dairy Products
+72 Product GEEOO	 Dairy Products
+73 Product WEUJZ	 Seafood
+74 Product BKAZJ	 Produce
+75 Product BWRLG	 Beverages
+76 Product JYGFE	 Beverages
+77 Product LUNZZ	 Condiments
+
+productid|productname   |supplierid|categoryid |  unitprice  |discontinued|categoryid| categoryname            |                description
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   1	  Product HHYDP	    1	      1	           18.00	    0	      1 	Beverages	           Soft drinks, coffees, teas, beers, and ales
+   2	  Product RECZE	    1	      1	           19.00	    0	      1	        Beverages	           Soft drinks, coffees, teas, beers, and ales
+   3	  Product IMEHJ	    1	      2	           10.00	    0	      2	        Condiments	           Sweet and savory sauces, relishes, spreads, and seasonings
+   4	  Product KSBRM	    2	      2	           22.00	    0	      2	        Condiments	           Sweet and savory sauces, relishes, spreads, and seasonings
+   5	  Product EPEIM	    2	      2	           21.35	    1	      2	        Condiments	           Sweet and savory sauces, relishes, spreads, and seasonings
+   6	  Product VAIIV	    3	      2 	   25.00	    0	      2	        Condiments	           Sweet and savory sauces, relishes, spreads, and seasonings
+   7	  Product HMLNI	    3	      7	           30.00	    0	      7	        Produce	                   Dried fruit and bean curd
+   8	  Product WVJFP	    3	      2	           40.00	    0	      2	        Condiments	           Sweet and savory sauces, relishes, spreads, and seasonings
+   9	  Product AOZBW	    4	      6	           97.00	    1	      6	        Meat/Poultry	           Prepared meats
+   10	  Product YHXGE	    4	      8	           31.00	    0	      8	        Seafood	                   Seaweed and fish
+   11	  Product QMVUN	    5	      4	           21.00	    0	      4	        Dairy Products	           Cheeses
+   12	  Product OSFNS	    5	      4 	   38.00	    0	      4	        Dairy Products	           Cheeses
+   13	  Product POXFU	    6	      8	            6.00	    0	      8	        Seafood	                   Seaweed and fish
+   14	  Product PWCJB	    6	      7	           23.25	    0	      7	        Produce	                   Dried fruit and bean curd
+   15	  Product KSZOI	    6	      2	           15.50	    0	      2	        Condiments	           Sweet and savory sauces, relishes, spreads, and seasonings
+   16	  Product PAFRH	    7	      3	           17.45	    0	      3	        Confections	           Desserts, candies, and sweet breads
+   17	  Product BLCAX	    7	      6	           39.00	    1	      6	        Meat/Poultry	           Prepared meats
+   18	  Product CKEDC	    7	      8	           62.50	    0	      8	        Seafood	                   Seaweed and fish
+   19	  Product XKXDO	    8	      3	            9.20	    0	      3	        Confections	           Desserts, candies, and sweet breads
+   20	  Product QHFFP	    8	      3	           81.00	    0	      3	        Confections	           Desserts, candies, and sweet breads
+   21	  Product VJZZH	    8	      3	           10.00	    0	      3	        Confections	           Desserts, candies, and sweet breads
+   22	  Product CPHFY	    9	      5	           21.00	    0	      5	        Grains/Cereals	           Breads, crackers, pasta, and cereal
+   23	  Product JLUDZ	    9	      5	            9.00	    0	      5	        Grains/Cereals	           Breads, crackers, pasta, and cereal
+   24	  Product QOGNU	    10	      1	            4.50	    1	      1	        Beverages	           Soft drinks, coffees, teas, beers, and ales
+   25	  Product LYLNI	    11	      3	           14.00	    0	      3	        Confections	           Desserts, candies, and sweet breads
+   26	  Product HLGZA	    11	      3	           31.23	    0	      3	        Confections	           Desserts, candies, and sweet breads
+   27	  Product SMIOH	    11	      3	           43.90	    0	      3	        Confections	           Desserts, candies, and sweet breads
+   28	  Product OFBNT	    12	      7	           45.60	    1	      7	        Produce	                   Dried fruit and bean curd
+   29	  Product VJXYN	    12	      6	          123.79	    1	      6	        Meat/Poultry	           Prepared meats
+   30	  Product LYERX	    13	      8	           25.89	    0	      8   	Seafood	                   Seaweed and fish
+   31	  Product XWOXC	    14	      4	           12.50	    0	      4	        Dairy Products	           Cheeses
+   32	  Product NUNAW	    14	      4	           32.00	    0	      4	        Dairy Products	           Cheeses
+   33	  Product ASTMN	    15	      4             2.50	    0	      4	        Dairy Products             Cheeses
+   34	  Product SWNJY	    16	      1	           14.00	    0	      1	        Beverages	           Soft drinks, coffees, teas, beers, and ales
+   35	  Product NEVTJ	    16	      1	           18.00	    0	      1	        Beverages	           Soft drinks, coffees, teas, beers, and ales
+   36	  Product GMKIJ	    17	      8	           19.00	    0	      8	        Seafood	                   Seaweed and fish
+   37	  Product EVFFA	    17	      8	           26.00	    0	      8	        Seafood	                   Seaweed and fish
+   38	  Product QDOMO	    18	      1	          263.50	    0	      1	        Beverages	           Soft drinks, coffees, teas, beers, and ales
+   39	  Product LSOFL	    18	      1	           18.00	    0	      1	        Beverages	           Soft drinks, coffees, teas, beers, and ales
+   40	  Product YZIXQ	    19	      8	           18.40	    0	      8	        Seafood	                   Seaweed and fish
+   41	  Product TTEEX	    19	      8	            9.65	    0	      8	        Seafood	                   Seaweed and fish
+   42	  Product RJVNM	    20	      5	           14.00	    1	      5	        Grains/Cereals	           Breads, crackers, pasta, and cereal
+   43	  Product ZZZHR	    20	      1	           46.00	    0	      1	        Beverages	           Soft drinks, coffees, teas, beers, and ales
+   44	  Product VJIEO	    20	      2	           19.45	    0	      2	        Condiments	           Sweet and savory sauces, relishes, spreads, and seasonings
+   45	  Product AQOKR	    21	      8	            9.50	    0	      8	        Seafood	                   Seaweed and fish
+   46	  Product CBRRL	    21	      8	           12.00	    0	      8	        Seafood	                   Seaweed and fish
+   47	  Product EZZPR	    22	      3	            9.50	    0	      3	        Confections	           Desserts, candies, and sweet breads
+   48	  Product MYNXN	    22	      3	           12.75	    0	      3	        Confections	           Desserts, candies, and sweet breads
+   49	  Product FPYPN	    23	      3	           20.00	    0	      3	        Confections	           Desserts, candies, and sweet breads
+   50	  Product BIUDV	    23	      3	           16.25	    0	      3	        Confections	           Desserts, candies, and sweet breads
+   51	  Product APITJ	    24	      7	           53.00	    0	      7	        Produce	                   Dried fruit and bean curd
+   52	  Product QSRXF	    24	      5	            7.00	    0	      5	        Grains/Cereals	           Breads, crackers, pasta, and cereal
+   53	  Product BKGEA	    24	      6	           32.80	    1	      6	        Meat/Poultry	           Prepared meats
+   54	  Product QAQRL	    25	      6	            7.45	    0	      6	        Meat/Poultry	           Prepared meats
+   55	  Product YYWRT	    25	      6	           24.00	    0	      6	        Meat/Poultry	           Prepared meats
+   56	  Product VKCMF	    26	      5	           38.00	    0	      5	        Grains/Cereals	           Breads, crackers, pasta, and cereal
+   57	  Product OVLQI	    26	      5	           19.50	    0	      5	        Grains/Cereals	           Breads, crackers, pasta, and cereal
+   58	  Product ACRVI	    27	      8	           13.25	    0	      8	        Seafood	                   Seaweed and fish
+   59	  Product UKXRI	    28	      4	           55.00	    0	      4	        Dairy Products	           Cheeses
+   60	  Product WHBYK	    28	      4	           34.00	    0	      4	        Dairy Products	           Cheeses
+   61	  Product XYZPE	    29	      2	           28.50	    0	      2	        Condiments	           Sweet and savory sauces, relishes, spreads, and seasonings
+   62	  Product WUXYK	    29	      3	           49.30	    0	      3	        Confections	           Desserts, candies, and sweet breads
+   63	  Product ICKNK	    7	      2	           43.90	    0	      2	        Condiments	           Sweet and savory sauces, relishes, spreads, and seasonings
+   64	  Product HCQDE	    12	      5	           33.25	    0	      5	        Grains/Cereals	           Breads, crackers, pasta, and cereal
+   65	  Product XYWBZ	    2	      2	           21.05	    0	      2	        Condiments	           Sweet and savory sauces, relishes, spreads, and seasonings
+   66	  Product LQMGN	    2	      2	           17.00	    0	      2	        Condiments	           Sweet and savory sauces, relishes, spreads, and seasonings
+   67	  Product XLXQF	    16	      1	           14.00	    0	      1	        Beverages	           Soft drinks, coffees, teas, beers, and ales
+   68	  Product TBTBL	    8	      3	           12.50	    0	      3	        Confections	           Desserts, candies, and sweet breads
+   69	  Product COAXA	    15	      4	           36.00	    0	      4	        Dairy Products	           Cheeses
+   70	  Product TOONT	    7	      1	           15.00	    0	      1	        Beverages	           Soft drinks, coffees, teas, beers, and ales
+   71	  Product MYMOI	    15	      4	           21.50	    0	      4	        Dairy Products	           Cheeses
+   72	  Product GEEOO	    14	      4	           34.80	    0	      4	        Dairy Products	           Cheeses
+   73	  Product WEUJZ	    17	      8	           15.00	    0	      8	        Seafood	                   Seaweed and fish
+   74	  Product BKAZJ	    4	      7	           10.00	    0	      7	        Produce	                   Dried fruit and bean curd
+   75	  Product BWRLG	    12	      1	            7.75	    0	      1    	Beverages	           Soft drinks, coffees, teas, beers, and ales
+   76	  Product JYGFE	    23	      1	           18.00	    0	      1  	Beverages	           Soft drinks, coffees, teas, beers, and ales
+   77	  Product LUNZZ	    12	      2	           13.00	    0	      2	        Condiments	           Sweet and savory sauces, relishes, spreads, and seasonings
+
