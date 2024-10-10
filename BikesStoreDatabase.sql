@@ -23,8 +23,8 @@ required_date datetime2 not null,
 shipped_date datetime2 not null,
 PRIMARY KEY(order_id),
 customerId int ,
---Foreign key (customerId) References [BikesStore].[Customers] (customer_id)
---on DELETE SET NULL ON UPDATE CASCADE
+Foreign key (customerId) References [BikesStore].[Customers] (customer_id)
+on DELETE SET NULL ON UPDATE CASCADE
 )
 ALTER Table  [BikesStore].[Orders]
 ADD  customerId int not null
